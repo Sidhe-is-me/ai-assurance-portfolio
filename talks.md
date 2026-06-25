@@ -3,7 +3,7 @@
 ### AI + Accessibility: Holding AI Systems to Inclusive Standards
 **Format:** talk / workshop
 
-How to evaluate AI systems for accessibility and trustworthiness together — covering AI-output rendering for assistive technology, uncertainty and human-oversight design, readability and cognitive load for diverse users, and where NIST AI RMF, the EU AI Act, and Section 508 reinforce one another. Companion to the [Trustworthy-AI Conformance Assessment](trustworthy-ai-conformance-assessment.md) work sample in this repo.
+How to check AI systems for accessibility and trustworthiness at the same time. It covers making AI output work with screen readers, designing for when the AI isn't sure (and when a human should step in), keeping the language readable for a wide range of people, and where the NIST AI RMF, the EU AI Act, and Section 508 line up. A companion to the [Trustworthy-AI Conformance Assessment](trustworthy-ai-conformance-assessment.md) work sample in this repo.
 
 ---
 

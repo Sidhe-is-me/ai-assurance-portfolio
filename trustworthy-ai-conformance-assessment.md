@@ -3,7 +3,7 @@
 **Author:** Sidhe-is-me · **Type:** AI assurance / test & evaluation deliverable
 **Frameworks applied:** NIST AI RMF 1.0 (Govern/Map/Measure/Manage) · EU AI Act (high-risk, human-oversight) · Section 508 / WCAG 2.1
 
-> **Note on this document.** This is a *portfolio work sample* built on a representative (non-client) system to demonstrate method. It shows how I take an AI system, map it to controls, define the test method, specify the evidence, and record findings — the same rule → control → evidence loop I have run for 14+ years on federal compliance programs, now applied to AI. Any real engagement would substitute the actual system, data, and approvals.
+> **Note on this document.** This is a *portfolio work sample* built on a representative (non-client) system to demonstrate method. It shows how I take an AI system, map it to controls, define the test method, specify the evidence, and record findings — the same rule → control → evidence loop I use on standards-compliance programs, now applied to AI. Any real engagement would substitute the actual system, data, and approvals.
 
 ---
 
@@ -79,4 +79,4 @@ A human override path exists (good), but the system does not **flag low-confiden
 
 ## 7. Method note (why this is credible)
 
-This is the exact loop I run today on federal systems — *requirement → control → test method → evidence → finding → remediation to closure* — transposed from Section 508 to AI trustworthiness. The accessibility and human-factors findings (TR-07/08) are the ones a pure governance reviewer typically can't produce and a pure engineer typically doesn't prioritize. That intersection is the point.
+This is the exact loop I run on standards-compliance systems today — *requirement → control → test method → evidence → finding → remediation to closure* — transposed from Section 508 to AI trustworthiness. The accessibility and human-factors findings (TR-07/08) are the ones a pure governance reviewer typically can't produce and a pure engineer typically doesn't prioritize. That intersection is the point.
